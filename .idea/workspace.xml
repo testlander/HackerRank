@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d303ab5-9b91-4c53-b3c6-d67a212fecd6" name="Default Changelist" comment="" />
+    <list default="true" id="9d303ab5-9b91-4c53-b3c6-d67a212fecd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testlander/thirtydaysofcode/day5/LoopPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testlander/thirtydaysofcode/day5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testlander/thirtydaysofcode/day6/MadLibs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testlander/thirtydaysofcode/day6/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testlander/thirtydaysofcode/day7/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testlander/thirtydaysofcode/day4/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testlander/thirtydaysofcode/day4/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testlander/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testlander/thirtydaysofcode/day4/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testlander/thirtydaysofcode/day4/Person.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +38,8 @@
   </component>
   <component name="ProjectId" id="1VQvt5vXV7Wgda8U6hlMvoZzN0f" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -41,23 +57,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Person">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.testlander.Main" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="LoopPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testlander.thirtydaysofcode.day5.LoopPractice" />
       <module name="HackerRank" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testlander.thirtydaysofcode.day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testlander.thirtydaysofcode.day4.Person" />
+    <configuration name="MadLibs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testlander.thirtydaysofcode.day6.MadLibs" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testlander.thirtydaysofcode.day4.*" />
+          <option name="PATTERN" value="com.testlander.thirtydaysofcode.day6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testlander.thirtydaysofcode.day6.Solution" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testlander.thirtydaysofcode.day6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testlander.thirtydaysofcode.day7.Solution" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testlander.thirtydaysofcode.day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testlander.thirtydaysofcode.day5.Solution" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testlander.thirtydaysofcode.day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.MadLibs" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.LoopPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -84,5 +145,18 @@
       <updated>1577198344558</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
